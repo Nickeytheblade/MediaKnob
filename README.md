@@ -1,5 +1,5 @@
-# MediaKnob
-Simple volume controller with encoder KY-040 and arduino
+## MediaKnob
+Simple volume controller with encoder KY-040 and Arduino/Platformio. Pro Micro 32u4 MCU
 
 HARDWARE:
 
